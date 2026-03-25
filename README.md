@@ -96,7 +96,7 @@ The study combines exploratory data analysis with two statistical methods — lo
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/rmba-hr-attrition.git
+   git clone https://github.com/franciscosta/rmba-hr-attrition.git
    ```
 2. Open the notebook in [Google Colab](https://colab.research.google.com/) or Jupyter
 3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) and upload it when prompted
@@ -106,12 +106,6 @@ The study combines exploratory data analysis with two statistical methods — lo
 
 ---
 
-## Authors
-
-*Add your name and your group members' names here*
-
----
-
 ## Course
 
-Research Methods in Business Analytics — 2024
+Research Methods in Business Analytics (Master in Business Analytics at Nova SBE) — 2024
